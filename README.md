@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amal C S</h1>
 <h3 align="center">Results-oriented Software Engineer, specializing in designing and developing scalable, high-performance software solutions with a strong focus on code quality.</h3>
 
-- 👯 I’m looking to collaborate on **Developed an AI-powered chatbot for stress management**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/acs-18](https://github.com/acs-18)
 
-- 📫 How to reach me **amalsajics369@gmail.com**
+- 📫 How to reach me amalsajics369@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
